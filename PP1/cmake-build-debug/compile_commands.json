@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/Zhenya/CLionProjects/lab1/cmake-build-debug",
+  "command": "\"C:\\Program Files\\JetBrains\\CLion 2026.3\\bin\\mingw\\bin\\c++.exe\" -g -std=gnu++23 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\lab1.dir\\main.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\lab1.dir\\main.cpp.obj -c C:\\Users\\Zhenya\\CLionProjects\\lab1\\main.cpp",
+  "file": "C:/Users/Zhenya/CLionProjects/lab1/main.cpp",
+  "output": "C:/Users/Zhenya/CLionProjects/lab1/cmake-build-debug/CMakeFiles/lab1.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Zhenya/CLionProjects/lab1/cmake-build-debug",
+  "command": "\"C:\\Program Files\\JetBrains\\CLion 2026.3\\bin\\mingw\\bin\\c++.exe\" -g -std=gnu++23 -fdiagnostics-color=always -fmodule-only -fmodules-ts -fmodule-mapper=CMakeFiles\\@cmake_cxx_std@synth_0.dir\\70b2301d7307.bmi.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\@cmake_cxx_std@synth_0.dir\\70b2301d7307.bmi -c \"C:\\Program Files\\JetBrains\\CLion 2026.3\\bin\\mingw\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include\\c++\\bits\\std.cc\"",
+  "file": "C:/Program Files/JetBrains/CLion 2026.3/bin/mingw/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/std.cc",
+  "output": "C:/Users/Zhenya/CLionProjects/lab1/cmake-build-debug/CMakeFiles/@cmake_cxx_std@synth_0.dir/70b2301d7307.bmi"
+},
+{
+  "directory": "C:/Users/Zhenya/CLionProjects/lab1/cmake-build-debug",
+  "command": "\"C:\\Program Files\\JetBrains\\CLion 2026.3\\bin\\mingw\\bin\\c++.exe\" -g -std=gnu++23 -fdiagnostics-color=always -fmodule-only -fmodules-ts -fmodule-mapper=CMakeFiles\\@cmake_cxx_std@synth_0.dir\\f6733e1179a8.bmi.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\@cmake_cxx_std@synth_0.dir\\f6733e1179a8.bmi -c \"C:\\Program Files\\JetBrains\\CLion 2026.3\\bin\\mingw\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include\\c++\\bits\\std.compat.cc\"",
+  "file": "C:/Program Files/JetBrains/CLion 2026.3/bin/mingw/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/std.compat.cc",
+  "output": "C:/Users/Zhenya/CLionProjects/lab1/cmake-build-debug/CMakeFiles/@cmake_cxx_std@synth_0.dir/f6733e1179a8.bmi"
+}
+]

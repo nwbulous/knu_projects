@@ -1,0 +1,3 @@
+C:/Users/Zhenya/CLionProjects/dz/lab1/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-601pgg/CMakeFiles/cmTC_e3b32.dir
+C:/Users/Zhenya/CLionProjects/dz/lab1/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-601pgg/CMakeFiles/edit_cache.dir
+C:/Users/Zhenya/CLionProjects/dz/lab1/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-601pgg/CMakeFiles/rebuild_cache.dir
