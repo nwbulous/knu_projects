@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Zhenya/CLionProjects/dz/PP2/cmake-build-debug",
+  "command": "\"C:\\Program Files\\JetBrains\\CLion 2026.3\\bin\\mingw\\bin\\c++.exe\" -g -std=gnu++23 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\PP2.dir\\main.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\PP2.dir\\main.cpp.obj -c C:\\Users\\Zhenya\\CLionProjects\\dz\\PP2\\main.cpp",
+  "file": "C:/Users/Zhenya/CLionProjects/dz/PP2/main.cpp",
+  "output": "C:/Users/Zhenya/CLionProjects/dz/PP2/cmake-build-debug/CMakeFiles/PP2.dir/main.cpp.obj"
+}
+]

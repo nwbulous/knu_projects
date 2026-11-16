@@ -1,0 +1,3 @@
+C:/Users/Zhenya/CLionProjects/dz/PP2/cmake-build-debug/CMakeFiles/PP2.dir
+C:/Users/Zhenya/CLionProjects/dz/PP2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Zhenya/CLionProjects/dz/PP2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
